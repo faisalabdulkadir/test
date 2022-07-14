@@ -16,7 +16,10 @@ function targetAddition(nums, target) {
   return result;
 }
 
+//inputs:
 var nums = [2, 7, 11, 15, 8, 13];
 var target = 21;
+
+//calling the function on the inputs
 var addititon = targetAddition(nums, target);
 console.log(addititon );
